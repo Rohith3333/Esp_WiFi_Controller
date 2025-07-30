@@ -1,5 +1,5 @@
 # 💡 Wi-Fi Controlled LED Glow System using ESP8266
-A Wi-Fi-based LED control system using an ESP8266 microcontroller. Control LEDs wirelessly from any browser via a web interface hosted by the ESP8266.
+A Wi-Fi-based LED control system using an ESP8266 microcontroller. Control LEDs wirelessly from any browser via a web interface hosted by the ESP8266
 
 ## 🛠️ Hardware
 - ESP8266 (e.g., NodeMCU)
